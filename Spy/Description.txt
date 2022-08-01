@@ -1,0 +1,8 @@
+Pecan Steg Challenges 
+
+Answer: 
+1/ 01011001 01101111 01110101 00100111 01110010 01100101 00100000 01100100 01101111 01101001 01101110 01100111 00100000 01100111 01110010 01100101 01100001 01110100 00100000
+Translated from binary: You're doing great 
+2/ .. .----. -- / .-- .- - -.-. .... .. -. --. / -.-- --- ..-
+Translated from morse code: I'm watching you
+The encoded string can be decoded using the stegano library in Python and online tools (to translate from binary and morse code to text)
